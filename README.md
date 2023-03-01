@@ -1,4 +1,4 @@
-commit 테스트
+수업 보충자료용 github
 ================
 Wooyoul Na
 

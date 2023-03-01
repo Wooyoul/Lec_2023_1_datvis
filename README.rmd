@@ -1,12 +1,15 @@
 ---
-title: "commit 테스트"
+title: "수업 보충자료용 github"
+subtitle: "2023-1학기: 데이터시각화"
 author: "Wooyoul Na"
+abstract: "수업 보충자료용 github입니다."
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 ## R Markdown
 
