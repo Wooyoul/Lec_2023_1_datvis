@@ -1,61 +1,15 @@
----
-title: "수업 보충자료용 github"
-subtitle: "2023-1학기: 데이터시각화"
-abstract: "수업 보충자료용 github입니다."
-author:
-- name: "Wooyoul Na"
-  affiliation: "Konkuk University"  
-date: "2023-03-01"
-output: 
-  html_document:
-    theme: flatly
-    keep_md: true
-    toc: yes
-    toc_depth: '4'
-    toc_float: yes
-    df_print: default
-    highlight: zenburn
-    code_folding: show
-  latex_engine: pdflatax
-  pdf_document:
-    toc: yes
-    toc_depth: '4'
-  word_document:
-    toc: yes
-    toc_depth: 4
-mainfont: NanumSquare
----
+2023-1학기 데이터시각화</br></br>수업 보충자료용 저장소
+================
+Wooyoul Na </br>
 
+## Intro
 
+-   이 곳은 2023학년도 1학기 **데이터시각화** 수업과 관련한 code들을
+    업로드하는 곳입니다.
 
+-   아래 **Example code**에 제시된 링크에서 수업 진행 시마다 참고할 수
+    있는 예시 code들을 확인하실 수 있습니다(업데이트 예정).
 
-[example_code.r](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/0545de63930c6ca645629610ba3294180d6f7ae1/R/example_code.r)
+## Example code
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-
-```r
-summary(cars)
-```
-
-```
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-![](README_files/figure-html/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+[example\_code.r](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/0545de63930c6ca645629610ba3294180d6f7ae1/R/example_code.r)
