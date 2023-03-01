@@ -1,9 +1,29 @@
 ---
 title: "수업 보충자료용 github"
 subtitle: "2023-1학기: 데이터시각화"
-author: "Wooyoul Na"
 abstract: "수업 보충자료용 github입니다."
-output: github_document
+author:
+- name: "Wooyoul Na"
+  affiliation: "Konkuk University"  
+date: "`r format(Sys.time(), '%Y-%m-%d')`"
+output: 
+  html_document:
+    theme: flatly
+    keep_md: true
+    toc: yes
+    toc_depth: '4'
+    toc_float: yes
+    df_print: default
+    highlight: zenburn
+    code_folding: show
+  latex_engine: pdflatax
+  pdf_document:
+    toc: yes
+    toc_depth: '4'
+  word_document:
+    toc: yes
+    toc_depth: 4
+mainfont: NanumSquare
 ---
 
 ```{r setup, include=FALSE}
