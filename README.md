@@ -2,7 +2,7 @@
 ================
 Wooyoul Na
 
-![example\_code.r](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/0545de63930c6ca645629610ba3294180d6f7ae1/R/example_code.r)
+[example\_code.r](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/0545de63930c6ca645629610ba3294180d6f7ae1/R/example_code.r)
 
 ## R Markdown
 
