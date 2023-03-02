@@ -12,4 +12,5 @@ Wooyoul Na </br>
 
 ## Example code
 
-[example\_code.r](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/0545de63930c6ca645629610ba3294180d6f7ae1/R/example_code.r)
+[4주차 Homework: data manipulation in
+dplyr](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/da216e6154949d3662cb47266e71463b9a512661/HW/w4_home.md)
