@@ -17,3 +17,6 @@ dplyr](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/da216e6154949d3662cb472
 
 [6주차 보충자료: hexbin plot에서 색상 반대로
 조정](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/cb8ad3d92c6fee27ac5de2ef533c7ef17ad89a74/HW/w6_addi.md)
+
+[14주차 보충자로: rstatix 없이
+시각화하기](https://github.com/Wooyoul/Lec_2023_1_datvis/blob/aa68e8ec4c4b089bb96d03fd4c244d35ed164357/HW/w14_addi.md)
